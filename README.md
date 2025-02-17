@@ -6,8 +6,7 @@
     🎮 Music • Games • Anime • Code • Art
     🐾 Cake & Cookie & MilkShake 
 </pre>
-<br><br>
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
-<br><br><br>
-
+<p align="center">
+  <a href="https://github.com/ramCafeDev"><img src="https://github-readme-stats.vercel.app/api?username=ramCafeDev&hide_border=false&show_icons=true" alt="ramCafeDev's github stats"></a>
+</p>
 </div>
