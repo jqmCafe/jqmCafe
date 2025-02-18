@@ -7,6 +7,6 @@
     🐾 Cake & Cookie & MilkShake 
 </pre>
 <p align="center">
-  <a href="https://github.com/ramCafeDev"><img src="https://github-readme-stats.vercel.app/api?username=ramCafeDev&hide_border=false&show_icons=true" alt="ramCafeDev's github stats"></a>
+  <a href="https://github.com/ramCafeDev"><img src="https://github-readme-stats.vercel.app/api?username=jqmRamos&hide_border=false&show_icons=true" alt="jqmRamos's github stats"></a>
 </p>
 </div>
