@@ -1,12 +1,21 @@
-<div align="center">
-<img src="https://i.pinimg.com/736x/ec/a6/0d/eca60d5b6fe7356e9703a9d6a8b35b9e.jpg" width="30%" height="20%" align="right" />
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&duration=1&pause=1&color=00FFFC&center=true&repeat=false&width=435&lines=Hi%2C+I'm+Caf%C3%A9" alt="Typing SVG" /></a><br><br>
-<pre>
-    💼 TADS @ FUNDEC • Back-end dev
-    🎮 Music • Games • Anime • Code • Art
-    🐾 Cake & Cookie & MilkShake 
-</pre>
-<p align="center">
-  <a href="https://github.com/ramCafeDev"><img src="https://github-readme-stats.vercel.app/api?username=jqmRamos&hide_border=false&show_icons=true" alt="jqmRamos's github stats"></a>
-</p>
-</div>
+<head>
+    
+</head>
+<body>
+    <div align="center">
+        <img src="https://jqmramos.github.io/WebPage/Assets/ai-art.png" width="30%" height="20%" align="center">
+        <!--
+        <p align="center">
+          <strong><a href="https://yuna0x0.com">Website</a></strong> |
+          <strong><a href="https://x.com/yunaNULL">Twitter</a></strong> |
+          <strong><a href="https://bsky.app/profile/yuna0x0.com">Bluesky</a></strong> |
+          <strong><a href="https://discord.gg/nYXzaUS">Discord</a></strong> |
+          <strong><a href="https://yuna0x0.com/yuna0x0.asc">PGP</a></strong>
+        </p>
+        -->
+        <p align="center">
+          <a href="https://github.com/ramCafeDev"><img src="https://github-readme-stats.vercel.app/api?username=jqmRamos&hide_border=true&show_icons=true" alt="jqmRamos's github stats"></a>
+        </p>
+    </div>
+
+</body>
