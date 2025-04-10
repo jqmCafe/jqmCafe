@@ -6,7 +6,7 @@
       <strong><a href="https://www.youtube.com/@Ramos-jo">Youtube</a></strong>
     </p>
     <p align="center">
-      <a href="https://github.com/ramCafeDev"><img src="https://github-readme-stats.vercel.app/api?username=jqmRamos&hide_border=false&show_icons=true" alt="jqmRamos's github stats"></a>
+      <a href="https://github.com/jqmRamos"><img src="https://github-readme-stats.vercel.app/api?username=jqmRamos&hide_border=false&show_icons=true" alt="jqmRamos's github stats"></a>
     </p>
     
 </div>
