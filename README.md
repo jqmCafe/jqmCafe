@@ -13,7 +13,6 @@
         <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
         -->
         <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
     </p>
     <p align="center">
       <a href="https://github.com/jqmRamos"><img src="https://github-readme-stats.vercel.app/api?username=jqmRamos&hide_border=false&show_icons=true" alt="jqmRamos's github stats"></a>
