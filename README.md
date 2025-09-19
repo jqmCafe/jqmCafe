@@ -44,18 +44,24 @@ https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif
 
 # ஐ coffee ஐ 
 
-<img align="right" width="400" src="https://github.com/AlldDev/AlldDev/blob/main/assets/bg.gif" />
+<img align="right" width="400" src="https://janet.co.kr/data/editor/2107/7672ea0115884f4db1c47c7e1c0f7076_1627637897_1275.gif"/>
 
 ```Python
+
 def main():
     message = "Hi, I am Café!"
     # \033[36m = ciano, \033[0m = reset
     print("\033[36m" + message + "\033[0m")
 
+
 if __name__ == "__main__":
     main()
 
+
 ```
+
+
+<br>
 
 # 〄 Analysis 〄
 
