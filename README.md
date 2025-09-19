@@ -1,21 +1,63 @@
 
-<div align="center">
-    <br>
-    <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
-        <img scr="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-        <img scr="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-        <!--
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-        <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
-        <img src="https://img.shields.io/badge/Firebird-FF4500?style=for-the-badge&logo=firebird&logoColor=white">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
-        -->
-        <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-    </p>
-    <p align="center">
-      <a href="https://github.com/jqmRamos"><img src="https://github-readme-stats.vercel.app/api?username=jqmRamos&hide_border=false&show_icons=true" alt="jqmRamos's github stats"></a>
-    </p>
-    
-</div>
+<!--
+
+```Rust
+#![no_std] // Minimal kernel
+#![no_main]
+use core::panic::PanicInfo;
+#[panic_handler]
+fn panic(_info: &PanicInfo) -> ! { loop {} }
+#[no_mangle]
+pub extern "C" fn _start() -> ! {
+    let message = "Hi, I am Stardust!"; // ☬
+    let buffer = 0xb8000 as *mut u8;
+    for (i, &b) in message.as_bytes().iter().enumerate() {
+        unsafe { // ☈
+            *buffer.offset(i as isize * 2) = b;
+            *buffer.offset(i as isize * 2 + 1) = 0xb;
+        }
+    }
+    loop {}
+}
+``` 
+
+
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/jqmCafe?style=flat-square&logo=github" /> 
+
+
+# ❀ Website ❀
+[![Stardust Preview](https://hanabi-ai.cn/preview.png)](https://hanabi-ai.cn)
+
+
+
+# 📞 ❅ Contact ❅
+
+```text
+Email: stardust@fish.audio
+Bilibili: @Stardust_减
+Github: @Stardust-minus
+QQ:2225664821
+```
+
+https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif
+-->
+
+# ஐ coffee ஐ 
+
+<img align="right" width="400" src="https://github.com/AlldDev/AlldDev/blob/main/assets/bg.gif" />
+
+```Python
+def main():
+    message = "Hi, I am Café!"
+    # \033[36m = ciano, \033[0m = reset
+    print("\033[36m" + message + "\033[0m")
+
+if __name__ == "__main__":
+    main()
+
+```
+
+# 〄 Analysis 〄
+
+<img width="44%" align="left" src="https://github-readme-stats.vercel.app/api?username=jqmCafe&count_private=true&show_icons=true&theme=radical" />
+<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jqmCafe&theme=radical" />
