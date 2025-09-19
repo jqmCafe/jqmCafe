@@ -60,4 +60,4 @@ if __name__ == "__main__":
 # 〄 Analysis 〄
 
 <img width="44%" align="left" src="https://github-readme-stats.vercel.app/api?username=jqmCafe&count_private=true&show_icons=true&theme=radical" />
-<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jqmCafe&theme=radical" />
+<img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jqmCafe&theme=radical" />
